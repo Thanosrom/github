@@ -1,0 +1,13 @@
+#divError{
+    width:50rem;
+    height: 50rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 3%;
+    margin-left: 30%;
+}
+
+h1{
+    color: grey;  
+}
